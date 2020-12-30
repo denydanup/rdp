@@ -6,9 +6,9 @@ DWYOR !
 2. File > New Notebook
 3. Copas ini di command line
 
-! wget https://raw.githubusercontent.com/denydanup/rdp/main/rdp.sh &> /dev/null
-! chmod +x rdp.sh
-! ./rdp.sh
+! wget https://raw.githubusercontent.com/denydanup/rdp/main/rdp.sh &> /dev/null<br>
+! chmod +x rdp.sh<br>
+! ./rdp.sh<br>
 
 4. Buka https://remotedesktop.google.com/headless
 5. OK/Next aja sampe ada code buat windows/debian
