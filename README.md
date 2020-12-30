@@ -7,10 +7,8 @@ DWYOR !
 3. Copas ini di command line
 
 ! wget https://raw.githubusercontent.com/denydanup/rdp/main/rdp.sh &> /dev/null
-
-! chmod +x RDP.sh
-
-! ./RDP.sh
+! chmod +x rdp.sh
+! ./rdp.sh
 
 4. Buka https://remotedesktop.google.com/headless
 5. OK/Next aja sampe ada code buat windows/debian
