@@ -1,9 +1,9 @@
 #! /bin/bash
 printf "Sabar brodi, install RDPnya dulu... " >&2
 {
-sudo useradd -m DENVER
-sudo adduser DENVER sudo
-echo 'DENVER:6969' | sudo chpasswd
+sudo useradd -m yahaha
+sudo adduser yahaha sudo
+echo 'yahaha:1234' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
